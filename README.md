@@ -51,4 +51,4 @@ modular CMake architecture. Built for the Industrial Informatics Laboratory cour
 
 ## 📫 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/luca-maggio-a39aab190)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-maggio-a39aab190)
