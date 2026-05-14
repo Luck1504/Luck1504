@@ -28,12 +28,12 @@ and pump control. Also expanding into mobile development with Flutter.
 
 ## 📂 Featured projects
 
-**[Flexible Assembly System Simulation](https://github.com/embedded-systems-programming-aa-2025-26/winter-assignment-Luck1504)**
+**[Flexible Assembly System Simulation](https://github.com/Luck1504/Embedded-Systems-Programming)**
 Multi-threaded C++ simulation of an industrial AGV fleet —
 concurrent threads, mutex synchronisation, BOM-driven scheduling,
 KPI engine. Built for the Embedded Systems Programming course, MSc Mechatronics.
 
-**[Industrial Fluid Mixing Simulation](https://github.com/lab-informatica-industriale-aa-2024-25/assegnamento-finale-team-squeak)**
+**[Industrial Fluid Mixing Simulation](https://github.com/Luck1504/Industrial-Informatics-Laboratory)**
 Closed-loop control system in C — discrete physical model,
 IF/THEN rule-based controller, finite-state machine,
 modular CMake architecture. Built for the Industrial Informatics Laboratory course, BSc Mechatronics.
